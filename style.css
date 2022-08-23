@@ -44,11 +44,11 @@ section{
     font-family: var(--fonte3);
 }
 section#img1{
-    background-image: url(pacote-d012/imagens/background001.jpg) ;
+    background-image: url(imagens/background001.jpg) ;
     background-position: right center;
 }
 section#img2{
-    background-image: url(pacote-d012/imagens/background002.jpg);
+    background-image: url(imagens/background002.jpg);
 }
 section.imagem{
     background-color: rgb(51, 51, 51);
